@@ -1,4 +1,4 @@
-module github.com/mattermost/viper
+module github.com/42wim/viper-mattermost
 
 require (
 	github.com/fsnotify/fsnotify v1.4.7
